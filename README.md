@@ -13,8 +13,8 @@ you have to stay legal and i am not responsible for what you do  ;)
 
 Radios on gta3 has changed through different iterations of the game,  
 here is the complete Double Clef FM iconic tracklist;  
-(according to https://gta.fandom.com/wiki/Double_Clef_FM#Tracklist
-and https://gta.fandom.com/fr/wiki/Double_Clef_FM#GTA_III )
+(according to https://gta.fandom.com/wiki/Radio_Stations_in_GTA_III#Double_Clef_FM  
+and https://gta.fandom.com/fr/wiki/Double_Clef_FM#GTA_III )  
 
 
 _just replace CLASS.wav on your ux0:data/gta3/audio  
