@@ -9,7 +9,7 @@ Buy your own copy of the game, Developers need to be paid and fully supported fo
 you have to stay legal and i am not responsible for what you do  ;)
 
 
-# Now let's feel the Classical taste of Double Clef FM by DJ Morgan Merryweather:
+# Now let's feel the Classical taste of Double Clef FM hosted by DJ Morgan Merryweather:
 
 Radios on gta3 has changed through different iterations of the game,  
 here is the complete Double Clef FM iconic tracklist;  
