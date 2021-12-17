@@ -1,5 +1,5 @@
 # DoubleClefFM-full
-The full DoubleClefFM radio with all tracks
+The full Double Clef FM radio with all tracks
 
 This repository was made for the conservation of video-gaming History;  
 because Art needs to be saved for our collective remembering.  
