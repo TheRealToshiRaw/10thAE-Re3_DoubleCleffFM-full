@@ -1,28 +1,30 @@
-# DoubleClefFM-full
-The full Double Clef FM radio with all tracks
+# 10thAE-Re3_DoubleCleffFM-full  
+The full Double Cleff FM radio with all tracks  
+
+(welcome back to HQ removed/censored/exclusive tracks, commercials and skits, etc..)  
 
 This repository was made for the conservation of video-gaming History;  
 because Art needs to be saved for our collective remembering.  
-If licensed the material belongs to its owner.
+If licensed the material belongs to its owner.  
 
 Buy your own copy of the game;  
 Developers need to be paid and fully supported for their job,  
-you have to stay legal and i am not responsible for what you do  ;)
+you have to stay legal and i am not responsible for what you do  ;)  
 
 
-# Now let's feel the Classical taste of Double Clef FM hosted by DJ Morgan Merryweather:
+# Now let's feel the Classical taste of Double Cleff FM hosted by DJ Morgan Merryweather:  
 
 Radios on gta3 has changed through different iterations of the game,  
-here is the complete Double Clef FM iconic tracklist;  
+here is the complete Double Cleff FM iconic tracklist;  
 (according to https://gta.fandom.com/wiki/Radio_Stations_in_GTA_III#Double_Clef_FM  
 and https://gta.fandom.com/fr/wiki/Double_Clef_FM#GTA_III )  
 
 
 _just replace CLASS.wav on your ux0:data/gta3/audio  
-(tested and works correctly as is on any Vita version of your game.)
+(tested and works correctly as is on any Vita version of your game.)  
 
 
-### Double Clef FM full (22:45 - 1536 Kbps - 249 Mo):
+### CLASS.wav full (22:45 - 1536 Kbps - 249 Mo):  
 
 00:00 -> 03:41 Skit + Non più andrai farfallone amoroso - Wolfgang "Amadeus" Amadè Mozart (1786)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;("You won't go anymore, loving butterfly" by Sesto Bruscantini and Teresa Berganza)  
